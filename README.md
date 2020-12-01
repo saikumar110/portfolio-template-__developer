@@ -20,6 +20,6 @@
 ✔️ Achievements And Certifications 🏆\
 ✔️ Blogs\
 ✔️ Contact me\
-✔️ Github Profile\
+✔️ Github Profile
 
 To view a live example, **[click here](https://silly-shockley-8737b1.netlify.app/work.html)**.
