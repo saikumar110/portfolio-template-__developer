@@ -8,7 +8,7 @@
   <img src="https://github.com/saikumar110/Images_of_projects/blob/main/projects_page/landing_page.png?raw=true" width="200" height="250" hspace="20" />
   <img src="https://github.com/saikumar110/Images_of_projects/blob/main/projects_page/about_page.png?raw=true" width="200" height="250"  hspace="20"/>
   <img src=https://github.com/saikumar110/Images_of_projects/blob/main/projects_page/projects_page.png?raw=true width="200"  height="250" hspace="20"/>
-  <img src="https://github.com/saikumar110/Images_of_projects/blob/main/projects_page/contact_page.png?raw=true" width="200"  height="250" hspace="20"/>
+  <img src="https://github.com/saikumar110/Images_of_projects/blob/main/projects_page/contact_page.png?raw=true" width="200"  height="250" vspace="20"/>
 </p>
 
 
