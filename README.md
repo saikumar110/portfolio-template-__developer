@@ -5,7 +5,7 @@
 
 <p float="left" margin="5">
   <img src="https://user-images.githubusercontent.com/59998576/101877400-f45f4080-3bb3-11eb-9e98-f1d5a1ed7e03.png" width="200" height="250"  hspace="15"/>
-  <img src="https://github.com/saikumar110/Images_of_projects/blob/main/projects_page/about_page.png?raw=true" width="200" height="250"  hspace="15"/>
+  <img src="https://user-images.githubusercontent.com/59998576/101877501-1b1d7700-3bb4-11eb-9101-e2c5a8a49c42.png" width="200" height="250"  hspace="15"/>
   <img src=https://github.com/saikumar110/Images_of_projects/blob/main/projects_page/projects_page.png?raw=true width="200"  height="250" hspace="15"/>
   <img src="https://github.com/saikumar110/Images_of_projects/blob/main/projects_page/contact_page.png?raw=true" width="200"  height="250" hspace="15"/>
 </p>
