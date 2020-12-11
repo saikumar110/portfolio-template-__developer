@@ -19,7 +19,7 @@
 ✔️ Work Experience\
 ✔️ Achievements And Certifications 🏆\
 ✔️ Blogs\
-✔️ Contact me\😊
+✔️ Contact me\
 ✔️ Github Profile
 
 To view a live example, **[click here](https://developerfolio2104.netlify.app/)**.
