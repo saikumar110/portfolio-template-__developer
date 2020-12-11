@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Linking The Css File -->
     <link rel="stylesheet" href="css/main.css">
+    <!-- Fav-icon -->
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <!-- FontAwespme-5 -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous" />
     <!-- Google Fonts {Dosis} -->
@@ -14,8 +16,9 @@
     <title> My Work | FullStack Developer & Machine Learning Engineer</title>
 </head>
 
-<body>
-
+<body onload="preloader()">
+    <!-- Preloader -->
+    <div id="preloader"></div>
     <!-- SECTION: Header -->
     <header id="header-inner">
         <div class="container">
@@ -167,6 +170,14 @@
     </footer>
     <!-- Typing Effect -->
     <script src="js/typewriter.js"></script>
+    <!-- Preloader -->
+    <script>
+        var loader = document.getElementById('preloader');
+
+        function preloader() {
+            loader.style.display = "none";
+        }
+    </script>
 </body>
 
 </html>
