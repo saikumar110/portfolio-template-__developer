@@ -22,4 +22,4 @@
 ✔️ Contact me\
 ✔️ Github Profile
 
-To view a live example, **[click here](https://silly-shockley-8737b1.netlify.app/work.html)**.
+To view a live example, **[click here](https://silly-shockley-8737b1.netlify.app/)**.
